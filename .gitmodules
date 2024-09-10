@@ -1,0 +1,3 @@
+[submodule "lib/demoparser"]
+	path = lib/demoparser
+	url = git@github.com:LaihoE/demoparser.git
